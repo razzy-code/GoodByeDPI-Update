@@ -1,170 +1,170 @@
-[bold+green]YENİ SÜRÜM: v2.8.56.9785[]
+[bold+green]YENİ SÜRÜM: v2.8.56.9785[][]
 [alt2]
-[bold+blue]GÜNCELLEME NOTLARI[]
+[bold+blue]GÜNCELLEME NOTLARI[][]
 [alt1]
-[bold+purple]YENİ ÖZELLİKLER[]
+[bold+purple]YENİ ÖZELLİKLER[][]
 [alt1]
-[bold+darkblue]Gelişmiş DPI Atlatma Motoru[]
-[bold]Quantum Packet Injection™[] teknolojisi eklendi
-[bold]AI-Powered Traffic Analysis[] ile akıllı paket yönlendirme
-[bold]Multi-Layer Encryption[] ile gelişmiş güvenlik katmanı
-[bold]Dynamic TTL Manipulation[] ile otomatik TTL optimizasyonu
+[bold+darkblue]Gelişmiş DPI Atlatma Motoru[][]
+[bold]Quantum Packet Injection™[][] teknolojisi eklendi
+[bold]AI-Powered Traffic Analysis[][] ile akıllı paket yönlendirme
+[bold]Multi-Layer Encryption[][] ile gelişmiş güvenlik katmanı
+[bold]Dynamic TTL Manipulation[][] ile otomatik TTL optimizasyonu
 [alt1]
-[bold+darkgreen]Güvenlik Geliştirmeleri[]
-[bold]Real-Time Threat Detection[] gerçek zamanlı tehdit algılama
-[bold]Behavioral Analysis[] davranışsal analiz motoru
-[bold]Zero-Day Protection[] sıfırıncı gün koruması
-[bold]Encrypted DNS over HTTPS (DoH)[] desteği
+[bold+darkgreen]Güvenlik Geliştirmeleri[][]
+[bold]Real-Time Threat Detection[][] gerçek zamanlı tehdit algılama
+[bold]Behavioral Analysis[][] davranışsal analiz motoru
+[bold]Zero-Day Protection[][] sıfırıncı gün koruması
+[bold]Encrypted DNS over HTTPS (DoH)[][] desteği
 [alt1]
-[bold+darkblue]Ağ Optimizasyonları[]
-[bold]Smart Load Balancing[] akıllı yük dengeleme
-[bold]Adaptive Latency Control[] uyarlanabilir gecikme kontrolü
-[bold]Multi-Protocol Support[] çoklu protokol desteği
-[bold]IPv6 Priority Routing[] IPv6 öncelikli yönlendirme
+[bold+darkblue]Ağ Optimizasyonları[][]
+[bold]Smart Load Balancing[][] akıllı yük dengeleme
+[bold]Adaptive Latency Control[][] uyarlanabilir gecikme kontrolü
+[bold]Multi-Protocol Support[][] çoklu protokol desteği
+[bold]IPv6 Priority Routing[][] IPv6 öncelikli yönlendirme
 [alt2]
-[bold+purple]TEKNİK İYİLEŞTİRMELER[]
+[bold+purple]TEKNİK İYİLEŞTİRMELER[][]
 [alt1]
-[bold+orange]Performans Artışı[]
-[green]%45[] daha hızlı bağlantı kurulumu
-[green]%60[] daha az bellek kullanımı
-[green]%30[] daha iyi paket işleme performansı
-[bold]Multi-threaded Processing[] çok iş parçacıklı işleme
+[bold+orange]Performans Artışı[][]
+[green]%45[][] daha hızlı bağlantı kurulumu
+[green]%60[][] daha az bellek kullanımı
+[green]%30[][] daha iyi paket işleme performansı
+[bold]Multi-threaded Processing[][] çok iş parçacıklı işleme
 [alt1]
-[bold+blue]Güncelleme Sistemi[]
-[bold]Incremental Updates[] artımlı güncellemeler
-[bold]Rollback Protection[] geri alma koruması
-[bold]Background Updates[] arka plan güncellemeleri
-[bold]Delta Updates[] delta güncelleme desteği
+[bold+blue]Güncelleme Sistemi[][]
+[bold]Incremental Updates[][] artımlı güncellemeler
+[bold]Rollback Protection[][] geri alma koruması
+[bold]Background Updates[][] arka plan güncellemeleri
+[bold]Delta Updates[][] delta güncelleme desteği
 [alt2]
-[bold+purple]KULLANICI ARAYÜZÜ YENİLİKLERİ[]
+[bold+purple]KULLANICI ARAYÜZÜ YENİLİKLERİ[][]
 [alt1]
-[bold+darkblue]Modern Tasarım[]
-[bold]Fluent Design System[] uyumlu arayüz
-[bold]Dark/Light Mode[] koyu/açık tema desteği
-[bold]Animated Transitions[] animasyonlu geçişler
-[bold]Customizable Dashboard[] özelleştirilebilir kontrol paneli
+[bold+darkblue]Modern Tasarım[][]
+[bold]Fluent Design System[][] uyumlu arayüz
+[bold]Dark/Light Mode[][] koyu/açık tema desteği
+[bold]Animated Transitions[][] animasyonlu geçişler
+[bold]Customizable Dashboard[][] özelleştirilebilir kontrol paneli
 [alt1]
-[bold+green]Kontrol Merkezi[]
-[bold]Real-Time Monitoring[] gerçek zamanlı izleme
-[bold]Connection Statistics[] bağlantı istatistikleri
-[bold]Network Health Dashboard[] ağ sağlığı paneli
-[bold]One-Click Optimization[] tek tık optimizasyon
+[bold+green]Kontrol Merkezi[][]
+[bold]Real-Time Monitoring[][] gerçek zamanlı izleme
+[bold]Connection Statistics[][] bağlantı istatistikleri
+[bold]Network Health Dashboard[][] ağ sağlığı paneli
+[bold]One-Click Optimization[][] tek tık optimizasyon
 [alt2]
-[bold+purple]SİSTEM ENTEGRASYONU[]
+[bold+purple]SİSTEM ENTEGRASYONU[][]
 [alt1]
-[bold+darkblue]Platform Desteği[]
-[bold]Windows 11 23H2[] tam uyumluluk
-[bold]Windows 10 LTSC 2024[] desteği
-[bold]Windows Server 2025[] desteği
-[bold]ARM64 Native Support[] yerel ARM64 desteği
+[bold+darkblue]Platform Desteği[][]
+[bold]Windows 11 23H2[][] tam uyumluluk
+[bold]Windows 10 LTSC 2024[][] desteği
+[bold]Windows Server 2025[][] desteği
+[bold]ARM64 Native Support[][] yerel ARM64 desteği
 [alt1]
-[bold+green]Servis İyileştirmeleri[]
-[bold]Windows Service Integration[] geliştirilmiş servis entegrasyonu
-[bold]System Tray Enhancement[] gelişmiş sistem tepsi özellikleri
-[bold]Auto-Start Optimization[] otomatik başlangıç optimizasyonu
-[bold]Background Service Management[] arka plan servis yönetimi
+[bold+green]Servis İyileştirmeleri[][]
+[bold]Windows Service Integration[][] geliştirilmiş servis entegrasyonu
+[bold]System Tray Enhancement[][] gelişmiş sistem tepsi özellikleri
+[bold]Auto-Start Optimization[][] otomatik başlangıç optimizasyonu
+[bold]Background Service Management[][] arka plan servis yönetimi
 [alt2]
-[bold+purple]GELİŞTİRİCİ ÖZELLİKLERİ[]
+[bold+purple]GELİŞTİRİCİ ÖZELLİKLERİ[][]
 [alt1]
-[bold+darkblue]API Geliştirmeleri[]
-[bold]RESTful API[] tam REST API desteği
-[bold]WebSocket Integration[] WebSocket entegrasyonu
-[bold]Plugin System[] eklenti sistemi
-[bold]Custom Scripting[] özel betik desteği
+[bold+darkblue]API Geliştirmeleri[][]
+[bold]RESTful API[][] tam REST API desteği
+[bold]WebSocket Integration[][] WebSocket entegrasyonu
+[bold]Plugin System[][] eklenti sistemi
+[bold]Custom Scripting[][] özel betik desteği
 [alt1]
-[bold+green]Debug & Analytics[]
-[bold]Advanced Logging[] gelişmiş loglama sistemi
-[bold]Performance Analytics[] performans analitiği
-[bold]Error Reporting[] otomatik hata raporlama
-[bold]Diagnostic Tools[] tanı araçları
+[bold+green]Debug & Analytics[][]
+[bold]Advanced Logging[][] gelişmiş loglama sistemi
+[bold]Performance Analytics[][] performans analitiği
+[bold]Error Reporting[][] otomatik hata raporlama
+[bold]Diagnostic Tools[][] tanı araçları
 [alt2]
-[bold+purple]ÖZEL ÖZELLİKLER[]
+[bold+purple]ÖZEL ÖZELLİKLER[][]
 [alt1]
-[bold+orange]Gaming Mode[]
-[bold]Low-Latency Gaming[] düşük gecikmeli oyun modu
-[bold]Game-Specific Optimization[] oyuna özel optimizasyon
-[bold]Ping Stabilization[] ping stabilizasyonu
-[bold]Traffic Prioritization[] trafik önceliklendirme
+[bold+orange]Gaming Mode[][]
+[bold]Low-Latency Gaming[][] düşük gecikmeli oyun modu
+[bold]Game-Specific Optimization[][] oyuna özel optimizasyon
+[bold]Ping Stabilization[][] ping stabilizasyonu
+[bold]Traffic Prioritization[][] trafik önceliklendirme
 [alt1]
-[bold+blue]Streaming Enhancement[]
-[bold]4K/8K Streaming Support[] 4K/8K akış desteği
-[bold]Buffer Bloat Reduction[] buffer bloat azaltma
-[bold]Adaptive Bitrate[] uyarlanabilir bit hızı
-[bold]CDN Optimization[] CDN optimizasyonu
+[bold+blue]Streaming Enhancement[][]
+[bold]4K/8K Streaming Support[][] 4K/8K akış desteği
+[bold]Buffer Bloat Reduction[][] buffer bloat azaltma
+[bold]Adaptive Bitrate[][] uyarlanabilir bit hızı
+[bold]CDN Optimization[][] CDN optimizasyonu
 [alt2]
-[bold+purple]GÜVENLİK GÜNCELLEMELERİ[]
+[bold+purple]GÜVENLİK GÜNCELLEMELERİ[][]
 [alt1]
-[bold+darkred]Advanced Protection[]
-[bold]Deep Packet Inspection Bypass[] gelişmiş DPI atlatma
-[bold]Traffic Obfuscation[] trafik gizleme
-[bold]Protocol Camouflage[] protokol kamufle etme
-[bold]Fingerprint Protection[] parmak izi koruması
+[bold+darkred]Advanced Protection[][]
+[bold]Deep Packet Inspection Bypass[][] gelişmiş DPI atlatma
+[bold]Traffic Obfuscation[][] trafik gizleme
+[bold]Protocol Camouflage[][] protokol kamufle etme
+[bold]Fingerprint Protection[][] parmak izi koruması
 [alt1]
-[bold+darkgreen]Privacy Enhancements[]
-[bold]No-Logs Policy[] log tutmama politikası
-[bold]Local-Only Processing[] sadece yerel işleme
-[bold]Encrypted Configuration[] şifreli yapılandırma
-[bold]Secure Boot Compliance[] güvenli önyükleme uyumluluğu
+[bold+darkgreen]Privacy Enhancements[][]
+[bold]No-Logs Policy[][] log tutmama politikası
+[bold]Local-Only Processing[][] sadece yerel işleme
+[bold]Encrypted Configuration[][] şifreli yapılandırma
+[bold]Secure Boot Compliance[][] güvenli önyükleme uyumluluğu
 [alt2]
-[bold+purple]PERFORMANS METRİKLERİ[]
+[bold+purple]PERFORMANS METRİKLERİ[][]
 [alt1]
-[bold+orange]Hız İyileştirmeleri[]
-[green]Web Browsing: %50[] daha hızlı
-[green]Video Streaming: %40[] daha az buffering
-[green]Gaming: %60[] daha düşük ping
-[green]Downloads: %35[] daha hızlı indirme
+[bold+orange]Hız İyileştirmeleri[][]
+[green]Web Browsing: %50[][] daha hızlı
+[green]Video Streaming: %40[][] daha az buffering
+[green]Gaming: %60[][] daha düşük ping
+[green]Downloads: %35[][] daha hızlı indirme
 [alt1]
-[bold+blue]Kaynak Kullanımı[]
-[green]Memory Usage: 12MB[] (önceki: 25MB)
-[green]CPU Usage: %0.3[] (önceki: %2)
-[green]Disk Space: 6MB[] (önceki: 12MB)
-[green]Network Overhead: %2[] (önceki: %8)
+[bold+blue]Kaynak Kullanımı[][]
+[green]Memory Usage: 12MB[][] (önceki: 25MB)
+[green]CPU Usage: %0.3[][] (önceki: %2)
+[green]Disk Space: 6MB[][] (önceki: 12MB)
+[green]Network Overhead: %2[][] (önceki: %8)
 [alt2]
-[bold+purple]HATA DÜZELTMELERİ[]
+[bold+purple]HATA DÜZELTMELERİ[][]
 [alt1]
-[bold+darkred]Stabilite İyileştirmeleri[]
-[bold]Memory Leak Fix[] bellek sızıntısı düzeltmesi
-[bold]Crash Recovery[] çökme kurtarma sistemi
-[bold]Service Stability[] servis kararlılığı
-[bold]Connection Drop Fix[] bağlantı kopması düzeltmesi
+[bold+darkred]Stabilite İyileştirmeleri[][]
+[bold]Memory Leak Fix[][] bellek sızıntısı düzeltmesi
+[bold]Crash Recovery[][] çökme kurtarma sistemi
+[bold]Service Stability[][] servis kararlılığı
+[bold]Connection Drop Fix[][] bağlantı kopması düzeltmesi
 [alt1]
-[bold+darkblue]Ağ Sorunları[]
-[bold]DNS Resolution Fix[] DNS çözümleme düzeltmesi
-[bold]IPv6 Compatibility[] IPv6 uyumluluk iyileştirmeleri
-[bold]Proxy Support[] proxy desteği geliştirmeleri
-[bold]Firewall Integration[] güvenlik duvarı entegrasyonu
+[bold+darkblue]Ağ Sorunları[][]
+[bold]DNS Resolution Fix[][] DNS çözümleme düzeltmesi
+[bold]IPv6 Compatibility[][] IPv6 uyumluluk iyileştirmeleri
+[bold]Proxy Support[][] proxy desteği geliştirmeleri
+[bold]Firewall Integration[][] güvenlik duvarı entegrasyonu
 [alt2]
-[bold+purple]KURULUM & GÜNCELLEME[]
+[bold+purple]KURULUM & GÜNCELLEME[][]
 [alt1]
-[bold+green]Güncelleme Süreci[]
-[bold]One-Click Update[] tek tık güncelleme
-[bold]Silent Installation[] sessiz kurulum
-[bold]Auto-Rollback[] otomatik geri alma
-[bold]Backup Protection[] yedekleme koruması
+[bold+green]Güncelleme Süreci[][]
+[bold]One-Click Update[][] tek tık güncelleme
+[bold]Silent Installation[][] sessiz kurulum
+[bold]Auto-Rollback[][] otomatik geri alma
+[bold]Backup Protection[][] yedekleme koruması
 [alt1]
-[bold+blue]Sistem Gereksinimleri[]
-[bold]OS:[] Windows 10/11/Server 2019+
-[bold]Architecture:[] x64, ARM64, x86
-[bold]RAM:[] 10MB minimum
-[bold]Storage:[] 100MB boş alan
+[bold+blue]Sistem Gereksinimleri[][]
+[bold]OS:[][] Windows 10/11/Server 2019+
+[bold]Architecture:[][] x64, ARM64, x86
+[bold]RAM:[][] 10MB minimum
+[bold]Storage:[][] 100MB boş alan
 [alt2]
-[bold+purple]SÜRÜM DETAYLARI[]
-[bold]Sürüm Numarası:[] v2.8.56.9785
-[bold]Kod Adı:[] Quantum Shield Pro
-[bold]Yayın Tarihi:[] 24 Ocak 2024
-[bold]Destek Süresi:[] 36 ay
+[bold+purple]SÜRÜM DETAYLARI[][]
+[bold]Sürüm Numarası:[][] v2.8.56.9785
+[bold]Kod Adı:[][] Quantum Shield Pro
+[bold]Yayın Tarihi:[][] 24 Ocak 2024
+[bold]Destek Süresi:[][] 36 ay
 [alt2]
-[bold+green]GÜNCELLEME TALİMATLARI[]
+[bold+green]GÜNCELLEME TALİMATLARI[][]
 1. Mevcut sürümü kapatın
 2. Güncelleme aracını çalıştırın
 3. Otomatik yedekleme bekleyin
 4. Güncellemeyi onaylayın
 5. Yeniden başlatın
 [alt2]
-[bold+blue]DESTEK & YARDIM[]
-[bold]Website:[] https://nebi-saylan.vercel.app/
-[bold]GitHub:[] https://github.com/razzy-code/GoodByeDPI-Update/
-[bold]Email:[] razzy-code@hotmail.com
+[bold+blue]DESTEK & YARDIM[][]
+[bold]Website:[][] https://nebi-saylan.vercel.app/
+[bold]GitHub:[][] https://github.com/razzy-code/GoodByeDPI-Update/
+[bold]Email:[][] razzy-code@hotmail.com
 [alt2]
-[bold+green]NOT:[]
+[bold+green]NOT:[][]
 Bu güncelleme, performans, güvenlik ve kullanıcı deneyiminde önemli iyileştirmeler içermektedir. Tüm kullanıcıların en kısa sürede güncelleme yapmaları önerilir.
