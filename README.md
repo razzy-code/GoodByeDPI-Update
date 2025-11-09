@@ -1,78 +1,77 @@
-GitHub Update System - Gelişmiş Otomatik Güncelleme Sistemi
-📖 İçindekiler
-Genel Bakış
+# OpenDPI - Gelişmiş DPI Atlatma ve Ağ Optimizasyon Çözümü
 
-Özellikler
+![OpenDPI Logo](https://chatgpt.com/backend-api/estuary/content?id=file_00000000c7bc71f4a66b72f1ffd71dc4&ts=489638&p=fs&cid=1&sig=2c4af3a4b5603d2deb4afbc1babcb5fdda2938a2e7c0f59a02caa2ed8744f111&v=0)
+*Gizliliğiniz ve İnternet Özgürlüğünüz İçin Tasarlandı*
 
-Kurulum
+## 📖 İçindekiler
+- [Genel Bakış](#-genel-bakış)
+- [Özellikler](#-özellikler)
+- [Sistem Gereksinimleri](#-sistem-gereksinimleri)
+- [Kurulum](#-kurulum)
+- [Kullanım Kılavuzu](#-kullanım-kılavuzu)
+- [Teknik Özellikler](#-teknik-özellikler)
+- [Gizlilik ve Güvenlik](#-gizlilik-ve-güvenlik)
+- [Sıkça Sorulan Sorular](#-sıkça-sorulan-sorular)
+- [Sorun Giderme](#-sorun-giderme)
+- [Destek](#-destek)
+- [Lisans](#-lisans)
 
-Kullanım
+## 🚀 Genel Bakış
 
-Yapılandırma
+OpenDPI, gelişmiş Derin Paket İncelemesi (DPI) atlatma teknolojileri kullanarak internet sansürünü aşmanıza ve ağ performansınızı optimize etmenize olanak tanıyan profesyonel bir ağ güvenlik yazılımıdır.
 
-Teknik Detaylar
+**Temel Amacımız:**
+- İnternet erişim özgürlüğünü korumak
+- Ağ performansını maksimuma çıkarmak
+- Kullanıcı gizliliğini garanti altına almak
+- Kararlı ve güvenilir bağlantı sağlamak
+- Erişim engeli olan sitelere güvenli bir şekilde girebilmek
 
-Geliştirici Rehberi
+## ⭐ Özellikler
 
-Sık Sorulan Sorular
+### 🔒 Gelişmiş DPI Atlatma Metodları
+- **Fragmentation Method**: Paket parçalama teknolojisi
+- **TTL Manipulation**: Paket ömrü manipülasyonu
+- **Protocol Spoofing**: Protokol taklidi
+- **Custom Packet Crafting**: Özel paket oluşturma
+- **Multi-layer Encryption**: Çok katmanlı şifreleme
 
-🚀 Genel Bakış
-GitHub Update System, Windows uygulamaları için geliştirilmiş kapsamlı bir otomatik güncelleme ve dağıtım sistemidir. Bu sistem, uygulamalarınızın GitHub ve Google Drive üzerinden merkezi olarak güncellenmesini sağlar.
+### 📊 Akıllı Optimizasyon
+- Otomatik en iyi metod seçimi
+- Gerçek zamanlı performans analizi
+- Akıllı yük dengeleme
+- Adaptif ağ ayarları
+- Bağlantı kalitesi izleme
 
-🎯 Temel Amacı
-Uygulama güncellemelerini otomatikleştirmek
+### 🛡️ Gelişmiş Güvenlik
+- 256-bit SSL şifreleme
+- DNS sızıntı koruması
+- IPv6 sızıntı önleme
+- Otomatik kill switch
+- Gizlilik odaklı log politikası
 
-Kullanıcı deneyimini iyileştirmek
+## 💻 Sistem Gereksinimleri
 
-Geliştiriciler için merkezi dağıtım sağlamak
+### Asgari Gereksinimler
+- **İşletim Sistemi**: Windows 7 veya üzeri
+- **İşlemci**: 1 GHz veya daha hızlı
+- **Bellek**: 100 MB RAM
+- **Depolama**: 50 MB boş alan
+- **Ağ**: İnternet bağlantısı
+- **.NET Framework**: 4.8 veya üzeri
 
-Güvenli ve hatasız güncelleme süreci sunmak
+### Önerilen Gereksinimler
+- **İşletim Sistemi**: Windows 11
+- **İşlemci**: 2 GHz çift çekirdek veya üzeri
+- **Bellek**: 1 GB RAM veya üzeri
+- **Depolama**: 150 MB boş alan
+- **Ağ**: İnternet bağlantısı
+- **.NET Framework**: 4.8 veya üzeri
 
-✨ Özellikler
-🔄 Güncelleme Yönetimi
-Otomatik Güncelleme Kontrolü - Uygulama başlangıcında otomatik kontrol
+## 📥 Kurulum
 
-İsteğe Bağlı Güncelleme - Kullanıcı tarafından manuel kontrol
-
-Arka Plan Güncellemesi - Kesintisiz kullanıcı deneyimi
-
-Sürüm Doğrulama - Versiyon karşılaştırması ve uyumluluk kontrolü
-
-🌐 Entegrasyonlar
-GitHub API - Sürüm bilgileri ve release notları
-
-Google Drive - Büyük dosya depoları için entegrasyon
-
-Raw GitHub - update.txt ve release.txt dosyaları
-
-Çoklu Depo Desteği - Farklı branch'ler ve repository'ler
-
-🛡️ Güvenlik ve Güvenilirlik
-Dosya Bütünlüğü Kontrolü - İndirilen dosyaların doğrulanması
-
-Hata Yönetimi - Kapsamlı exception handling
-
-Geri Alma Mekanizması - Başarısız güncellemeler için kurtarma
-
-Excluded Files - Kritik sistem dosyalarının korunması
-
-🎨 Kullanıcı Arayüzü
-Modern Tasarım - Profesyonel ve kullanıcı dostu arayüz
-
-Gerçek Zamanlı İlerleme - Canlı progress göstergeleri
-
-Durum Bildirimleri - Renk kodlu durum mesajları
-
-Çoklu Dil Desteği - Yerelleştirme hazır yapı
-
-📥 Kurulum
-Sistem Gereksinimleri
-.NET Sürümü: 6.0 veya üzeri
-
-İşletim Sistemi: Windows 10/11
-
-Bellek: Minimum 512 MB RAM
-
-Depolama: 50 MB boş alan
-
-İnternet Bağlantısı: GitHub ve Google Drive erişimi
+### Otomatik Kurulum
+1. İndirilen `OpenDPI-Setup.exe` dosyasını çalıştırın
+2. Kurulum sihirbazını takip edin
+3. Gerekli izinleri onaylayın
+4. Masaüstüne gelen kısayoldan programı çalıştırın
