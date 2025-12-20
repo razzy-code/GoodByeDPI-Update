@@ -1,12 +1,13 @@
 {
-  "version": "6.13.27.9999",
-  "update-link": "https://drive.google.com/uc?export=download&id=1O-vOSIcbdkpus2r4qJd9VgLXRQeg9vpu",
+  "version": "7.132.56.182",
+  "update-link": "https://drive.google.com/uc?export=download&id=15vHpbKuJ2KPcCr5-J33uqdkD_h_xNQQa",
   "logourl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png",
-  "updateinfo": "OpenDPI v6.13.27.99995 - Büyük Güncelleme\n\n• YENİ ARAYÜZ TASARIMI - Tamamen yenilenen modern ve şık kullanıcı arayüzü daha sezgisel menüler geliştirilmiş panel düzenleri\n\n• PERFORMANS İYİLEŞTİRMELERİ - Başlangıç hızı %40 arttırıldı bellek kullanımı optimize edildi DPI bypass işlemleri hızlandırıldı servis başlatma süresi kısaltıldı\n\n• HATA DÜZELTMELERİ - Null referans hataları giderildi bellek sızıntıları düzeltildi UI senkronizasyon sorunları çözüldü servis başlatma/durdurma stabilitesi artırıldı tray ikon görünürlük sorunları giderildi\n\n• YENİ ÖZELLİKLER EKLENDİ - Otomatik güncelleme sistemi aktif edildi gelişmiş DNS yapılandırma aracı anlık bağlantı testi özelliği geliştirilmiş tray ikon yönetimi başlangıç ayarları otomasyonu\n\n• DİĞER İYİLEŞTİRMELER - Lisans yönetimi güncellendi log sistemi optimize edildi hata bildirim mekanizması geliştirildi kullanıcı deneyimi iyileştirildi",
-  "release-date": "2025-12-15",
-  "changelog": "v6.13.27.9999 Changelog:\n\n• Yeni: Gelişmiş filtreleme sistemi\n• Yeni: Güncelleme mekaniği\n• Fixed: Memory leak issues\n• Improved: Network detection accuracy\n• Updated: Protocol database",
+  "updateinfo": "OpenDPI v7.132.56.182 - Büyük Güncelleme\n\n• YENİ ARAYÜZ TASARIMI - Tamamen yenilenen modern ve şık kullanıcı arayüzü daha sezgisel menüler geliştirilmiş panel düzenleri\n\n• PERFORMANS İYİLEŞTİRMELERİ - Başlangıç hızı %40 arttırıldı bellek kullanımı optimize edildi DPI bypass işlemleri hızlandırıldı servis başlatma süresi kısaltıldı\n\n• HATA DÜZELTMELERİ - Null referans hataları giderildi bellek sızıntıları düzeltildi UI senkronizasyon sorunları çözüldü servis başlatma/durdurma stabilitesi artırıldı tray ikon görünürlük sorunları giderildi\n\n• YENİ ÖZELLİKLER EKLENDİ - Otomatik güncelleme sistemi aktif edildi gelişmiş DNS yapılandırma aracı anlık bağlantı testi özelliği geliştirilmiş tray ikon yönetimi başlangıç ayarları otomasyonu\n\n• DİĞER İYİLEŞTİRMELER - Lisans yönetimi güncellendi log sistemi optimize edildi hata bildirim mekanizması geliştirildi kullanıcı deneyimi iyileştirildi",
+  "release-date": "2025-12-20",
+  "changelog": "v7.132.56.182 Changelog:\n\n• YENİ: GitHub entegrasyonu ile About formu artık gerçek zamanlı güncelleme notları gösteriyor\n• YENİ: Gelişmiş JSON parser ile daha güvenli ve hızlı veri işleme\n• YENİ: Kritik güncelleme uyarı sistemi eklendi\n• DÜZELTME: Null referans exception'ları giderildi\n• DÜZELTME: JSON parse hataları için try-catch blokları eklendi\n• İYİLEŞTİRME: Ağ timeout süresi 15 saniyeye çıkarıldı\n• İYİLEŞTİRME: About form tasarımı tamamen yenilendi\n• İYİLEŞTİRME: Metin formatlama iyileştirildi\n• İYİLEŞTİRME: Hata yönetimi geliştirildi\n• İYİLEŞTİRME: Fallback mekanizması daha stabil hale getirildi",
   "min-version": "1.0.0",
-  "file-size": "2861683",
-  "checksum-md5": "e061b4d531db2574913fc633e651cc4f",
-  "checksum-sha256": "ba3e92c33ca0e300df52f029fe2aa781b7689eeb1869b8503fe6dd470d607e02"
+  "file-size": "3991675",
+  "checksum-md5": "aa3d9437a663747fb75748161575237a",
+  "checksum-sha256": "4d3589a48dcb9216b1ad0bac63913f1ec46c45ba075dacada54e1d922c0b795b",
+  "is-critical": true
 }
