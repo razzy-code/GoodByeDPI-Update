@@ -1,13 +1,13 @@
 {
-  "version": "7.151.69.295",
-  "update-link": "https://drive.google.com/uc?export=download&id=1FBzPGOG_-QgB6m7cjYiYu6lDZmRKKtwm",
+  "version": "7.159.69.295",
+  "update-link": "https://drive.google.com/uc?export=download&id=1oQUETOjpJT36GIbFmpesv2r9IHZu97yB",
   "logourl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png",
-  "updateinfo": "OpenDPI v7.151.69.295 - Çeşitli Hata Düzeltmeleri ve Arayüz Güncellemeleri",
+  "updateinfo": "OpenDPI v7.159.69.295 - Çeşitli Hata Düzeltmeleri",
   "release-date": "2025-12-22",
-  "changelog": "v7.151.69.295 Changelog:\\n\\n• Küçük çaplı performans iyileştirmeleri eklendi. \\n\\n• Arayüzde %35 daha hızlı açılma mekaniği eklendi. \\n\\n• Çalışma süresi yanlış gözüküyordu, düzeltildi.",
+  "changelog": "v7.159.69.295 Changelog:\\n\\n• Bazı küçük hatalar düzeltildi.",
   "min-version": "1.0.0",
-  "file-size": 2867726,
-  "checksum-md5": "4d83b6f9263e4fb9eb844d6311a00ebd",
-  "checksum-sha256": "4c1cd6c34490ac68c18ce35f4b77c5bbff0c94cb534db902f8e54f04067a6e32",
+  "file-size": 2867803,
+  "checksum-md5": "9c97917e5c89889ca201c8f63fc3adc5",
+  "checksum-sha256": "8451b398e7d73dd3e02a8a03b01515a060de957cf730b184ad3f086732d25372",
   "is-critical": false
 }
