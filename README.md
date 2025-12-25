@@ -8,13 +8,6 @@
 - [Özellikler](#-özellikler)
 - [Sistem Gereksinimleri](#-sistem-gereksinimleri)
 - [Kurulum](#-kurulum)
-- [Kullanım Kılavuzu](#-kullanım-kılavuzu)
-- [Teknik Özellikler](#-teknik-özellikler)
-- [Gizlilik ve Güvenlik](#-gizlilik-ve-güvenlik)
-- [Sıkça Sorulan Sorular](#-sıkça-sorulan-sorular)
-- [Sorun Giderme](#-sorun-giderme)
-- [Destek](#-destek)
-- [Lisans](#-lisans)
 
 ## 🚀 Genel Bakış
 
