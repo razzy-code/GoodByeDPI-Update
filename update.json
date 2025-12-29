@@ -1,13 +1,13 @@
 {
-  "version": "12.550.13",
+  "version": "12.982.11",
   "update-link": "https://github.com/GameMenu/JOASDNNOIGSJGOISJDGOISDJKGOPSDJ/releases/download/UPDATE/UPDATE.zip",
   "logourl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/yilbasi.png",
-  "updateinfo": "OpenDPI v12.550.13 - Yılbaşı Güncellemesi\n\n YENİLİKLER:\n• Yılbaşı Teması ve Kar Efektleri",
-  "release-date": "2025-12-27",
-  "changelog": "v12.550.13 - Yılbaşı Güncellemesi\n\n • Yılbaşı Teması ve Kar Efektleri",
+  "updateinfo": "OpenDPI v12.982.11 - Çeşitli Hata Düzeltmeleri",
+  "release-date": "2025-12-29",
+  "changelog": "v12.982.11 - Bazı performans sorunları düzeltildi ve bazı hatalar giderildi.",
   "min-version": "1.0.0",
-  "file-size": 23952919,
-  "checksum-md5": "0ecda2fc789266e5411aaab314dc427f",
-  "checksum-sha256": "f49724203a8b0005a21c3c3313ae654ef5ccce8428be83d578cb4c460249d9ff",
+  "file-size": 7090631,
+  "checksum-md5": "19a3a7af2c61187d588b9881d42550fd",
+  "checksum-sha256": "c044451f4ff69fee9890511b059c3e79a98f0a015f68d481f317e013cb05e197",
   "is-critical": false
 }
