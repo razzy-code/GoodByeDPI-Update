@@ -1,13 +1,13 @@
 {
-  "version": "12.982.11",
+  "version": "13.998.12",
   "update-link": "https://github.com/GameMenu/JOASDNNOIGSJGOISJDGOISDJKGOPSDJ/releases/download/UPDATE/UPDATE.zip",
-  "logourl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/yilbasi.png",
-  "updateinfo": "OpenDPI v12.982.11 - Çeşitli Hata Düzeltmeleri",
-  "release-date": "2025-12-29",
-  "changelog": "v12.982.11 - Bazı performans sorunları düzeltildi ve bazı hatalar giderildi.",
+  "logourl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png",
+  "updateinfo": "OpenDPI v13.998.121 - Çeşitli Hata Düzeltmeleri ve Yeni Özellikler",
+  "release-date": "2025-12-30",
+  "changelog": "v13.998.12 - • Yeni performans iyileştirmeleri\n• DNS çözümleyici güncellemesi\n• Hız optimizasyonları\n• Güvenlik geliştirmeleri\n• Yeni gelişmiş bağlantı şifreleme mekanizması",
   "min-version": "1.0.0",
-  "file-size": 14547037,
-  "checksum-md5": "93221aadb57c558b6d5f2dbb1189047d",
-  "checksum-sha256": "b4122fde8dad24c5bd43751225ba0af332ee0ba8cab5f46850a30c42ee45c1fa",
+  "file-size": 12240471,
+  "checksum-md5": "a4b5dac335d0febbc348f0cd43990fed",
+  "checksum-sha256": "3863c73c7157742a8ed8296139032cfed5d2f3d7da968f5ff0560770dc7b3b8f",
   "is-critical": false
 }
