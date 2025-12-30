@@ -1,13 +1,13 @@
 {
-  "version": "13.998.12",
+  "version": "14.111.52",
   "update-link": "https://github.com/GameMenu/JOASDNNOIGSJGOISJDGOISDJKGOPSDJ/releases/download/UPDATE/UPDATE.zip",
   "logourl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png",
-  "updateinfo": "OpenDPI v13.998.121 - Çeşitli Hata Düzeltmeleri ve Yeni Özellikler",
+  "updateinfo": "OpenDPI v14.111.52 - Çeşitli Hata Düzeltmeleri ve Yeni Başarım Sistemi",
   "release-date": "2025-12-30",
-  "changelog": "v13.998.12 - • Yeni performans iyileştirmeleri\n• DNS çözümleyici güncellemesi\n• Hız optimizasyonları\n• Güvenlik geliştirmeleri\n• Yeni gelişmiş bağlantı şifreleme mekanizması",
+  "changelog": "v14.111.52 -  Yeni performans iyileştirmeleri\n Yeni Başarım Sistemi: Artık uygulamayı kullandıkça bir çok farklı başarım kazanabilirsiniz.",
   "min-version": "1.0.0",
-  "file-size": 12240471,
-  "checksum-md5": "a4b5dac335d0febbc348f0cd43990fed",
-  "checksum-sha256": "3863c73c7157742a8ed8296139032cfed5d2f3d7da968f5ff0560770dc7b3b8f",
-  "is-critical": false
+  "file-size": 13724517,
+  "checksum-md5": "bfc6b1af2e7073399d8683ae862bc3f1",
+  "checksum-sha256": "e87bb4600c49c50c65820471d683650edb1b098ce8c93949e7b10062395d6911",
+  "is-critical": true
 }
