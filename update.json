@@ -1,13 +1,13 @@
 {
-  "version": "16.311.81",
+  "version": "16.311.90",
   "update-link": "https://github.com/GameMenu/JOASDNNOIGSJGOISJDGOISDJKGOPSDJ/releases/download/UPDATE/UPDATE.zip",
   "logourl": "https://raw.githubusercontent.com/razzy-code/OpenDPI/refs/heads/main/opendpi.png",
-  "updateinfo": "OpenDPI v16.311.81 - Çeşitli Hata Düzeltmeleri",
+  "updateinfo": "OpenDPI v16.311.90 - Çeşitli Hata Düzeltmeleri",
   "release-date": "2026-01-03",
-  "changelog": "v16.311.81 -  Çeşitli hata düzeltmeleri",
+  "changelog": "v16.311.90 -  Çeşitli hata düzeltmeleri",
   "min-version": "1.0.0",
-  "file-size": 6018148,
-  "checksum-md5": "21406fc5db7c8c01f64cf94968d26d23",
-  "checksum-sha256": "a4301e5bb2f088cb3e2e441a61da960d0366bcd1ca4e977c650fb6c1b75e0810",
+  "file-size": 71805567,
+  "checksum-md5": "8f805696362f6efdda5feaf60887ce67",
+  "checksum-sha256": "8b2007784ec39e4655a5d194cfa6c1c4d3a5500d484fd21b8f56f4976d9c4435",
   "is-critical": false
 }
