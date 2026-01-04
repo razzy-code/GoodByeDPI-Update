@@ -6,9 +6,9 @@
   "release-date": "2026-01-05",
   "changelog": "v17.215.31 - Artık yeni servis sistemi ile erişim engeli olan heryere kolaylıkla ve güvenle giriş yapabilirsiniz!",
   "min-version": "1.0.0",
-  "file-size": 74553783,
-  "checksum-md5": "1e54d12c26a8d0b43096ec5afb8f3a20",
-  "checksum-sha256": "5e9308ded347a5aaf136faeae58994e46f75f8d848f05874ee774857651e65d1",
+  "file-size": 74695171,
+  "checksum-md5": "48570358d8581ab75ca413d8fa013568",
+  "checksum-sha256": "1b61a8ac326d498e72f7c4371861ddbfc3f1681cebede4281f760b75ec655c75",
   "is-critical": false,
   "files-list": [
     "OpenDPI.exe",
